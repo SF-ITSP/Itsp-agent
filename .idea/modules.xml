@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Itsp_agent.iml" filepath="$PROJECT_DIR$/Itsp_agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Itsp-agent.iml" filepath="$PROJECT_DIR$/Itsp-agent.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
