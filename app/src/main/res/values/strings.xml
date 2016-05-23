@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Itsp_agent</string>
+    <string name="un_allocate_task">未指派任务</string>
+    <string name="unscheduled">未执行任务</string>
 </resources>
