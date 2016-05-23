@@ -1,3 +1,5 @@
+.idea/encodings.xml
+
 *.iml
 .gradle
 /local.properties
